@@ -1,3 +1,2 @@
 # testrepo
-12341234
-12341d
+clear test
